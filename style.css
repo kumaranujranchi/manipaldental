@@ -180,6 +180,10 @@ h1, h2, h3, h4, h5, h6 {
   transform: scale(1.1) rotate(5deg);
 }
 
+.card:hover .icon-box i {
+  color: white !important;
+}
+
 /* Buttons */
 .btn {
   padding: 0.8rem 1.8rem;
