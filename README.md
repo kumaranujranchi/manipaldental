@@ -46,4 +46,4 @@ Patna, Bihar – 800001
 ---
 
 © 2026 Manipal Dental Clinic. All rights reserved.
-This site is running on [SiteOnSub](https://www.siteonsub.com)
+This site is running on [Synergy Brand Architect](https://synergybrandarchitect.in/)
